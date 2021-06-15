@@ -19,3 +19,19 @@ body{
 #mainNavbar .nav-link:hover{
     color :#ea1c2c;
 }
+.slash{
+    color:#ea1c2c;
+}
+.heading{
+    font-weight:100;
+    color:white;
+    font-size: 4rem;
+}
+@media(max-width:1200px)
+{
+    .heading{
+        font-weight:100;
+        color:white;
+        font-size: 3rem;
+    }
+}
