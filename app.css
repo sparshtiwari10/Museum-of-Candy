@@ -26,6 +26,7 @@ body{
     font-weight:100;
     color:white;
     font-size: 4rem;
+    align-items:center;
 }
 @media(max-width:1200px)
 {
@@ -33,5 +34,12 @@ body{
         font-weight:100;
         color:white;
         font-size: 3rem;
+        align-items:center;
     }
+}
+.subheading{
+    font-weight:100;
+    color:#ea1c2c;
+    font-size: 3rem;
+    align-items:center;
 }
