@@ -43,3 +43,6 @@ body{
     font-size: 3rem;
     align-items:center;
 }
+.navbar .scrolled{
+    background:rgb(222,192,222);
+}
